@@ -1,0 +1,9 @@
+{
+  "name": "vz-botainode",
+  "version": "0.0.0",
+  "description": "vzBOTAINode",
+  "main": "app.js",
+  "author": {
+    "name": "Administrator"
+  }
+}
