@@ -1,3 +1,3 @@
-﻿# vzBOTAINode
+﻿# vzBOTAINode http://vzbotainode.azurewebsites.net
 
 
